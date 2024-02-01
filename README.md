@@ -1,4 +1,4 @@
-# Loop-and-basic-operations
+# Loops-and-basic-operations
 2 programs testing my understanding of loops and basic operators in Python
 
 First DHMS, takes input from a user as seconds and converts to YDMS format
